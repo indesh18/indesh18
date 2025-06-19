@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Learning Computer Science Engineer passionate about coding, problem-solving, and building efficient software. I love working web development, and cloud technologies.<br><br>💻 Tech Stack: Python | Java | React | Node.js | SQL | AWS.</p>
+<p align="left">I'm a Learning Computer Science Engineer passionate about coding, problem-solving, and building efficient software. I love working web development, and cloud technologies.<br><br>💻 Tech Stack: Python | Java | C++| Node.js | SQL | AWS.</p>
 
 ###
 
