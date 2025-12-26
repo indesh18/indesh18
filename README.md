@@ -1,75 +1,71 @@
 <h1 align="left">Hi, I'm Indesh 👋</h1>
 
-<hr style="border:0.5px solid #30363d">
+<hr>
 
-<h2 align="left">About Me</h2>
+<h2>About Me</h2>
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
 <p>
-I'm a learning <b>Computer Science Engineer</b> passionate about coding, problem-solving,
-and building efficient software systems.  
-I enjoy working on <b>web development</b>, <b>data handling</b>, and <b>cloud technologies</b>.
+I'm a <b>3rd year Computer Science student</b> learning <b>Data Analytics</b>.  
+I like working with data, finding patterns, and turning numbers into useful insights.
 </p>
 
 <p>
-💻 <b>Tech Stack</b>:  
-Python | Java | C++ | Node.js | SQL | AWS
+I enjoy cleaning data, analyzing it, and creating simple dashboards that help people
+understand data easily.
+</p>
+
+<p>
+💻 <b>Skills</b>: Python | SQL | Excel | Power BI
 </p>
 
 </td>
 
-<td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
+<td width="35%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250"/>
 </td>
 </tr>
 </table>
 
-<hr style="border:0.5px solid #30363d">
+<hr>
 
-<h2 align="left">🐍 Python & Tools</h2>
+<h2>Tools I Use</h2>
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38"/>
 </p>
 
-<hr style="border:0.5px solid #30363d">
+<hr>
 
-<h2 align="left">🚀 Focus Areas</h2>
+<h2>What I'm Learning</h2>
 
 <ul>
-  <li>Data Analysis & Problem Solving</li>
-  <li>Python & SQL</li>
-  <li>Backend & Cloud Fundamentals</li>
-  <li>Clean & Efficient Code</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Advanced SQL queries</li>
+  <li>Power BI dashboards</li>
+  <li>Real-world data projects</li>
 </ul>
 
-<hr style="border:0.5px solid #30363d">
+<hr>
 
-<h2 align="left">📫 Connect With Me</h2>
+<h2>Connect With Me</h2>
 
 <p>
 🔗 LinkedIn: https://www.linkedin.com/in/your-link <br>
 📧 Email: your-email@gmail.com
 </p>
-
