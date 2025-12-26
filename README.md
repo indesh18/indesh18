@@ -66,6 +66,6 @@ understand data easily.
 <h2>Connect With Me</h2>
 
 <p>
-🔗 LinkedIn: https://www.linkedin.com/in/your-link <br>
-📧 Email: your-email@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/indesh-prajapati-7043092b5/ <br>
+📧 Email: your-indeshprajapati19@gmail.com
 </p>
