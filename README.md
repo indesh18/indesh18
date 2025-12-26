@@ -1,79 +1,86 @@
-<h2 align="left">Hi, I'm Indesh 👋</h2>
+<h1 align="center">Indesh Prajapati</h1>
+<h3 align="center">Data Analyst | Computer Science Engineering (3rd Year)</h3>
 
-###
+---
 
-<h2 align="left">About Me</h2>
-
-<picture>
-  <img align="right" 
-       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       width="300px" />
-</picture>
-
-###
-
-<p align="left">
-🎓 3rd Year Computer Science Engineering Student <br><br>
-📊 Aspiring <b>Data Analyst</b> passionate about turning raw data into meaningful insights.  
-I enjoy working with data, building dashboards, performing EDA, and solving real-world business problems.<br><br>
-
-💡 Interests: Data Analysis | Data Visualization | SQL | Python | Business Insights  
+<p align="center">
+📊 Data Analysis • 📈 Visualization • 🧠 Insights • 💡 Problem Solving
 </p>
 
-###
+---
 
-<h2 align="left">🛠️ Data Analyst Tech Stack</h2>
+<h2>👨‍💻 Professional Summary</h2>
 
-###
+<p>
+I am a motivated Computer Science Engineering student specializing in <b>Data Analysis</b>.  
+I have hands-on experience in analyzing datasets, performing exploratory data analysis (EDA), and creating dashboards to support data-driven decision-making.
+I am actively seeking opportunities to apply analytical skills in real-world projects and internships.
+</p>
+
+---
+
+<h2>🛠 Technical Skills</h2>
+
+<h4>Languages & Libraries</h4>
+<p>
+Python (Pandas, NumPy, Matplotlib, Seaborn) <br>
+SQL (MySQL, PostgreSQL)
+</p>
+
+<h4>Data & BI Tools</h4>
+<p>
+Power BI • Microsoft Excel • Jupyter Notebook
+</p>
+
+<h4>Other Tools</h4>
+<p>
+Git • GitHub • Linux
+</p>
+
+---
+
+<h2>⚙️ Technology Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 </div>
 
-###
+---
 
-<h2 align="left">📈 Tools & Skills</h2>
+<h2>📊 Key Focus Areas</h2>
 
-<p align="left">
-✔ Python (Pandas, NumPy, Matplotlib, Seaborn) <br>
-✔ SQL (MySQL, PostgreSQL) <br>
-✔ Excel (Pivot Tables, Dashboards) <br>
-✔ Power BI (Data Visualization) <br>
-✔ Exploratory Data Analysis (EDA) <br>
-✔ Data Cleaning & Reporting
+<ul>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>Data Cleaning & Preprocessing</li>
+  <li>Dashboard Creation & Reporting</li>
+  <li>Business & Statistical Analysis</li>
+</ul>
+
+---
+
+<h2>📚 Academic Status</h2>
+
+<p>
+🎓 Bachelor of Technology – Computer Science Engineering <br>
+📍 3rd Year Undergraduate
 </p>
 
-###
+---
 
-<h2 align="left">🚀 Currently Learning</h2>
+<h2>📫 Contact</h2>
 
-<p align="left">
-📌 Advanced SQL Queries <br>
-📌 Power BI Dashboards <br>
-📌 Real-world Data Analyst Projects
+<p>
+📧 Email: your-email@gmail.com <br>
+🔗 LinkedIn: 
 </p>
 
-###
-
-<h2 align="left">📫 Connect With Me</h2>
-
-<p align="left">
-🔗 LinkedIn: https://www.linkedin.com/in/your-link <br>
-📧 Email: your-email@gmail.com
-</p>
