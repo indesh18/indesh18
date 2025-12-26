@@ -67,5 +67,5 @@ understand data easily.
 
 <p>
 🔗 LinkedIn:https://www.linkedin.com/in/indesh-prajapati-7043092b5/ <br>
-📧 Email: your-indeshprajapati19@gmail.com
+📧 Email:indeshprajapati19@gmail.com
 </p>
