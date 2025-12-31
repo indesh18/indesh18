@@ -19,7 +19,7 @@ understand data easily.
 </p>
 
 <p>
-💻 <b>Skills</b>: Python | SQL | Excel | Power BI
+💻 <b>Skills</b>: Python | SQL | Excel | Power BI |Pandas
 </p>
 
 </td>
