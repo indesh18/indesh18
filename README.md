@@ -9,8 +9,13 @@
 <td width="65%">
 
 <p>
-I'm a <b>3rd year Computer Science student</b> learning <b>Data Analytics</b>.  
-I like working with data, finding patterns, and turning numbers into useful insights.
+🎓 I am a Computer Science Engineering student passionate about Data Analytics and Artificial Intelligence.
+
+📊 I enjoy transforming raw data into meaningful insights through data cleaning, analysis, visualization, and machine learning.
+
+🚀 Currently improving my skills in Python, SQL, Data Structures & Algorithms, and Data Science to build real-world solutions.
+
+💡 Always curious to learn new technologies and solve challenging problems.
 </p>
 
 <p>
@@ -19,7 +24,19 @@ understand data easily.
 </p>
 
 <p>
-💻 <b>Skills</b>: Python | SQL | Excel | Power BI |Pandas
+Programming: Python, C++, SQL
+
+Data Analytics:
+Excel, Power BI, Pandas, NumPy, Matplotlib
+
+Machine Learning:
+Scikit-learn, TensorFlow (Basics)
+
+Database:
+MySQL, PostgreSQL
+
+Tools:
+Git, GitHub, VS Code
 </p>
 
 </td>
